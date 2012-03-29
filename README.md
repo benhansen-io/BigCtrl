@@ -54,3 +54,8 @@ For Linux there are two similar implementations.
 
 1. [At Home Modifier](http://gitorious.org/at-home-modifier/pages/Home)
 2. [Space2Ctrl](https://github.com/r0adrunner/Space2Ctrl)
+
+License
+-------
+
+Licensed under the MIT.
