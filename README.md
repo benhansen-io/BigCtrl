@@ -55,6 +55,8 @@ For Linux there are two similar implementations.
 1. [At Home Modifier](http://gitorious.org/at-home-modifier/pages/Home)
 2. [Space2Ctrl](https://github.com/r0adrunner/Space2Ctrl)
 
+This project has been encorperated into the [ergoemacs keybindings](https://code.google.com/p/ergoemacs/source/browse/ergoemacs/ergoemacs-keybindings/ahk-us.ahk) project which provides system-wide ErgoEmacs keybindings.
+
 License
 -------
 
