@@ -1,6 +1,16 @@
 BigCtrl
 =======
 
+Project Status
+--------------
+
+This project is no longer being actively maintained. There are several 
+known issues. Workarounds might exist but are not currently being
+investigated. See Issues for more information.
+
+Summary
+-------
+
 Add full Ctrl key functionality to the space bar on Windows.
 
 Holding the space bar while pressing other keys will act just the same
