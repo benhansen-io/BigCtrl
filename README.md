@@ -6,7 +6,7 @@ Outdated
 
 This project has been replaced by [dual](https://github.com/lydell/dual).
 Dual is a library that allows for the easy creation of custom combo keys
-such as the Space -> Ctrl key mapping created by this project. I
+such as the Space to Ctrl key mapping created by this project. I
 recommend all new users follow the instructions on dual's readme page
 for how to set up a BigCtrl equivalent set-up.
 
