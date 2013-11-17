@@ -1,12 +1,15 @@
 BigCtrl
 =======
 
-Project Status
+Outdated
 --------------
 
-This project is no longer being actively maintained. There are several 
-known issues. Workarounds might exist but are not currently being
-investigated. See Issues for more information.
+This project has been replaced by [dual](https://github.com/lydell/dual).
+Dual is a library that allows for the easy creation of custom combo keys
+such as the Space -> Ctrl key mapping created by this project. I
+recommend all new users follow the instructions on dual's readme page
+for how to set up a BigCtrl equivalent set-up.
+
 
 Summary
 -------
